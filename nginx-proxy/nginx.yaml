@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/PoojaSharma2410/ICA-2.git
-    path: nginx
+    path: nginx-proxy
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
